@@ -2,7 +2,7 @@
 
 Read the explanation at [wisn.github.io/knncpp/][1].
 
-[1]: https://wisn.github.io/knncpp/
+[1]: https://wisn.github.io/knncpp/index.html
 
 ## License
 
